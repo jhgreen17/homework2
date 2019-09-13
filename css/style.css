@@ -1,5 +1,5 @@
 body{
-    font-family: 'Lucida Grande', sans-serif;
+    font-family: 'Lucida Grande', sans-serif, monospace;
     color: white;
     background-color: black;
 }
@@ -25,7 +25,7 @@ img{
     width: 550px;
 }
 div{
-    height: 100px;
+    min-height: 100px;
     padding: 30px;
 }
 #red{
